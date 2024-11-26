@@ -539,7 +539,7 @@ double equipement::compareColorFeatures(const cv::Mat& features1, const cv::Mat&
 }
 
 */
-void equipement::metiers() {
+/*void equipement::metiers() {
    
 
 
@@ -653,7 +653,7 @@ void equipement::check()
         }
     }
 }
-
+*/
 QString equipement::generateChatbotReply(const QString& message)
 {
     QString reply;

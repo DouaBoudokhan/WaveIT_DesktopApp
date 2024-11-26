@@ -95,8 +95,8 @@ if (m_userpos=="Admin"){
      //doua/////////////////
           ui->tableView_equip->setModel(Etmp.afficher());
           button();
-          Etmp.metiers();
-          Etmp.check();
+          //Etmp.metiers();
+          //Etmp.check();
 
           //use
           ui->tableView_use->setModel(utmp.afficher());
@@ -2235,7 +2235,7 @@ void MainWindow::on_tableView_event_doubleClicked(const QModelIndex &index)
     if (!file.exists()) {
         // If the poster image doesn't exist, generate it
         Event event;
-        ui->l_id_event,ui->l_nom_event,date,ui->l_lieu_event,ui->l_type_event,ui->l_prix_event,ui->l_age_event
+        //ui->l_id_event,ui->l_nom_event,date,ui->l_lieu_event,ui->l_type_event,ui->l_prix_event,ui->l_age_event
         // Check if the poster generation was successful
         if (!file.exists()) {
             QMessageBox::warning(this, "Error", "Failed to generate the poster image.");
