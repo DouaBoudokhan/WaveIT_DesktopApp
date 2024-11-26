@@ -540,12 +540,7 @@ double equipement::compareColorFeatures(const cv::Mat& features1, const cv::Mat&
 
 */
 void equipement::metiers() {
-    QString accountSid = "AC89e96c705053ac7b02247b89cf3b7556";
-    QString authToken = "724754005e788f1fef92f2487494b32b";
-    QString from = "+12563636355";
-    QString msg="hola";
-    QString to = "+12625659676";
-    sendSMS(accountSid, authToken, from, to, msg);
+   
 
 
     QSqlQuery query;
