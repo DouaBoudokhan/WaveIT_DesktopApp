@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/bg_logo.png</file>
+        <file>img/ic_downArrow.png</file>
+        <file>img/ic_equipements.png</file>
+        <file>img/ic_equipements.svg</file>
+        <file>img/ic_events.svg</file>
+        <file>img/ic_home.svg</file>
+        <file>img/ic_pdf.svg</file>
+        <file>img/ic_print.svg</file>
+        <file>img/ic_search.png</file>
+        <file>img/ic_search.svg</file>
+        <file>img/ic_sportifs.svg</file>
+        <file>img/ic_sportifs_actif.svg</file>
+        <file>img/ic_sports.svg</file>
+        <file>img/ic_staff.svg</file>
+        <file>img/logo.png</file>
+        <file>img/logo.svg</file>
+        <file>img/profile.png</file>
+        <file>img/typing_human.png</file>
+        <file>img/waveitt.png</file>
+        <file>img/pic.jpg</file>
+        <file>img/8943377.png</file>
+        <file>img/back.png</file>
+        <file>img/pdf.png</file>
+        <file>img/stat.png</file>
+        <file>img/ic_equi.png</file>
+        <file>img/staff_pic.png</file>
+        <file>img/sport_pic.png</file>
+        <file>img/sportif_pic.png</file>
+        <file>img/event_pic.png</file>
+        <file>img/equi.png</file>
+        <file>img/fingerprint.svg</file>
+        <file>img/dev.png</file>
+        <file>QmlMap.qml</file>
+        <file>img/img.png</file>
+    </qresource>
+</RCC>
